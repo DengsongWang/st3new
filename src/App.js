@@ -27,7 +27,7 @@ function App() {
         </div>
         <div className="content">
           <Switch>
-            <Route exact path="/07013125">
+            <Route exact path="/st3new">
               <RealNavbar></RealNavbar>
               <Home></Home>
             </Route>
