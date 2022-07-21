@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://DengsongWang.github.io/st3",
+  "homepage": "https://DengsongWang.github.io/st3new",
   "private": true,
   "dependencies": {
     "@bit/nexxtway.react-rainbow.date-picker": "file:./components/date-picker",
@@ -49,5 +49,8 @@
     "env": {},
     "componentsDefaultDirectory": "components/{name}",
     "packageManager": "npm"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
