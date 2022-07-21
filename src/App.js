@@ -31,6 +31,7 @@ function App() {
               <RealNavbar></RealNavbar>
               <Home></Home>
             </Route>
+            
             <Route exact path="/">
               <RealNavbar></RealNavbar>
               <Home></Home>
