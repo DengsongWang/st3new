@@ -1,6 +1,4 @@
 import { useState, useEffect } from "react";
-
-import logo from './img/logo.PNG';
 import cakemake from './img/cakemake.jpg';
 import onlineshopping from './img/onlineshopping.jpg';
 import map from './img/map.PNG';
@@ -8,7 +6,7 @@ import cheese_cake from './img/cheese-cake.jpg';
 import straw from './img/strawberry-cake.jpg';
 import cake2 from './img/cake2.jpg';
 import cake1 from './img/cake1.jpg';
-import { Container } from "react-bootstrap";
+import { Container } from 'react-bootstrap';
 import {Link} from 'react-router-dom';
 
 

@@ -1,11 +1,10 @@
 import {Link} from 'react-router-dom';
-import { Container } from "react-bootstrap";
-import { Row, Col, Figure,Button, Image, Dropdown,Form } from 'react-bootstrap';
+import { Container } from 'react-bootstrap';
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import {FcLike, FcLikePlaceholder} from 'react-icons/fc';
 import recipes from './img/recipes.PNG';
-import { BsJustifyRight } from 'react-icons/bs';
+
 
 // import {DateTimePicker} from 'react-date-picker';
 
